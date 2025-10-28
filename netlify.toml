@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://yourproject.lovable.app/:splat"
+  to = "https://vampair-360.lovable.app/auth:splat"
   status = 200
   force = true
